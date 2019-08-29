@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437560736435",
+    "firebase_url": "https://chatapp-8460a.firebaseio.com",
+    "project_id": "chatapp-8460a",
+    "storage_bucket": "chatapp-8460a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437560736435:android:0c9a03a713013af7",
+        "android_client_info": {
+          "package_name": "com.gaurcodelabs.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437560736435-ergg89qpr97vp3jjvhdhnlo06geji8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3EUIposHgO1Yf9sF_QYXmdaKwqiZv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437560736435-ergg89qpr97vp3jjvhdhnlo06geji8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
